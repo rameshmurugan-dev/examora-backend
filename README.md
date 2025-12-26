@@ -31,6 +31,17 @@ Database: PostgreSQL
 Frontend: React (later)
 Version Control: Git + GitHub
 
+## 🏗️ System Architecture
+
+Examora follows a layered full-stack architecture:
+
+Backend — Spring Boot (REST APIs)
+Database — PostgreSQL (JPA / Hibernate)
+Frontend — React (will be added later)
+
+Data Flow:
+User → React UI → REST API → Service Layer → PostgreSQL
+
 ## 🚀 How to run backend locally
 
 ### Prerequisites
