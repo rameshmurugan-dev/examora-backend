@@ -42,6 +42,23 @@ Frontend — React (will be added later)
 Data Flow:
 User → React UI → REST API → Service Layer → PostgreSQL
 
+## 🗄️ Database Modules
+
+1️⃣ User & Authentication
+- Users
+- Roles
+
+2️⃣ Quiz Management
+- Quizzes
+- Sections
+- Questions
+- Options
+
+3️⃣ Test & Results
+- Attempts
+- Attempt Answers
+
+
 ## 🚀 How to run backend locally
 
 ### Prerequisites
