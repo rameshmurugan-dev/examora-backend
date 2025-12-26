@@ -13,6 +13,18 @@ attempt quizzes, and view their performance results.
 - Practice Spring Boot + React + PostgreSQL
 - Learn clean architecture & backend design
 
+## 📌 About Examora
+
+Examora is an online quiz and mock-test platform where students can:
+- Take mock exams
+- Practice section-wise tests
+- View scores & performance history
+
+Admins can:
+- Create quizzes & questions
+- Manage subjects & sections
+- Monitor test attempts
+
 ## 🛠 Tech Stack
 Backend: Spring Boot (Java, Spring Data JPA, Spring Security)
 Database: PostgreSQL
