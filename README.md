@@ -19,6 +19,27 @@ Database: PostgreSQL
 Frontend: React (later)
 Version Control: Git + GitHub
 
+## 🚀 How to run backend locally
+
+### Prerequisites
+- Java 21+
+- Maven
+- PostgreSQL
+
+### Steps
+
+1. Clone the project
+   git clone https://github.com/<your-username>/examora-backend.git
+
+2. Configure database in `application.yml`
+
+3. Run backend
+   ./mvnw spring-boot:run
+
+Backend will start at:
+http://localhost:8080
+
+
 ## 📦 Current Development Status
 ✔ Project initialized  
 ✔ PostgreSQL connected  
