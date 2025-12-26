@@ -1,4 +1,9 @@
 # EXAMORA — Online Quiz & Mock Test Platform
+![Status](https://img.shields.io/badge/Project-Active-success)
+![Language](https://img.shields.io/badge/Java-21-blue)
+![Backend](https://img.shields.io/badge/Spring%20Boot-3.x-green)
+![Database](https://img.shields.io/badge/PostgreSQL-Active-blue)
+
 
 Examora is a full-stack web application where students can take mock tests,
 attempt quizzes, and view their performance results.
