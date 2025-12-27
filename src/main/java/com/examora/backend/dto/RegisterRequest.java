@@ -5,6 +5,10 @@ import jakarta.validation.constraints.NotBlank;
 import lombok.Getter;
 import lombok.Setter;
 
+/**
+ * DTO representing user registration input payload.
+ * Includes validation rules for request body.
+ */
 @Getter
 @Setter
 public class RegisterRequest {
